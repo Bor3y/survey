@@ -1,5 +1,5 @@
 {
-    "name": "Bor3y/survey",
+    "name": "bor3y/survey",
     "description": "lol",
     "authors": [
       {
@@ -12,7 +12,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "Bor3y\\survey\\SurveyServiceProvider"
+          "bor3y\\survey\\SurveyServiceProvider"
         ]
       }
     }
