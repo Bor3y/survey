@@ -13,7 +13,7 @@
         "psr-4": {
             "Bor3y\\Survey\\": "src/"
         }
-    }
+    },
     "extra": {
       "laravel": {
         "providers": [
