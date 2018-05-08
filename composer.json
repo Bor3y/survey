@@ -1,0 +1,19 @@
+{
+    "name": "Bor3y/survey",
+    "description": "lol",
+    "authors": [
+      {
+        "name": "ahmed Elsayed",
+        "email": "ahmed.elsayed@robovics.com"
+      }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Bor3y\\survey\\SurveyServiceProvider"
+        ]
+      }
+    }
+}
