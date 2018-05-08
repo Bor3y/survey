@@ -1,6 +1,6 @@
 <?php
 
-namespace Survey;
+namespace Bor3y\Survey;
 
 use Illuminate\Support\ServiceProvider;
 

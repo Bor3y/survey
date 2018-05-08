@@ -9,10 +9,15 @@
     ],
     "minimum-stability": "dev",
     "require": {},
+	"autoload": {
+        "psr-4": {
+            "Bor3y\\Survey\\": "src/"
+        }
+    }
     "extra": {
       "laravel": {
         "providers": [
-          "bor3y\\survey\\SurveyServiceProvider"
+          "Bor3y\\Survey\\SurveyServiceProvider"
         ]
       }
     }

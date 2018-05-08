@@ -1,6 +1,6 @@
 <?php
 
-$namespace = 'Survey\Http\Controllers';
+$namespace = 'Bor3y\Survey\Http\Controllers';
 
 Route::group([
     'namespace' => $namespace,
